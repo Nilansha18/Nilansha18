@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋!!, I'm Nilansha Bisht.</h1>
-<h3 align="center">A intrigued learner of DSA and Web Development.</h3>
+<h3 align="center">An intrigued learner of DSA and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilansha18&label=Profile%20views&color=0e75b6&style=flat" alt="nilansha18" /> </p>
 
